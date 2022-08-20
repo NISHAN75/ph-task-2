@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "img": "https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Placement course (JavaScript)",
+    "description": "For beginners and Pro learners",
+    "price": 25
+  },
+  {
+    "id": "02",
+    "img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Placement course (React.js)",
+    "description": "For beginners and Pro learners",
+    "price": 25
+  },
+  {
+    "id": "03",
+    "img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Placement course (Node.js)",
+    "description": "For beginners and Pro learners",
+    "price": 25
+  },
+  {
+    "id": "04",
+    "img": "https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Placement course (Java)",
+    "description": "For beginners and Pro learners",
+    "price": 25
+  },
+  {
+    "id": "05",
+    "img": "https://images.pexels.com/photos/11035386/pexels-photo-11035386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Placement course (Tailwindcss)",
+    "description": "For beginners and Pro learners",
+    "price": 25
+  },
+  {
+    "id": "06",
+    "img": "https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Placement course (Boostrap)",
+    "description": "For beginners and Pro learners",
+    "price": 25
+  }
+]
